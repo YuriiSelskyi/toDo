@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { FormGroup, InputGroup, Button, FormControl } from "react-bootstrap";
-import "../../styles/index.css";
+import "../../index.css";
 
 class SingUp extends Component {
 	submit = () => {

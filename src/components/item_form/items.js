@@ -7,7 +7,7 @@ import {
 	ButtonGroup,
 	Button
 } from "react-bootstrap";
-import "../../styles/index.css";
+import "../../index.css";
 
 class Items extends Component {
 	state = {

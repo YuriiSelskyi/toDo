@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import Items from "../../components/item_form/items";
-import FormInput from "../../components/input_form/formInput";
-import "../../styles/index.css";
+import Items from "../../components/item_form/Items";
+import FormInput from "../../components/input_form/FormInput";
+import "../../index.css";
 
 class Main extends Component {
   constructor() {

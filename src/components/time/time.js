@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Clock from "react-live-clock";
-import "../../styles/index.css";
+import "../../index.css";
 
 class Time extends Component {
 	render() {
